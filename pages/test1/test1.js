@@ -5,7 +5,7 @@ Page({
    * 页面的初始数据
    */
   data: {
-          message: 'Hello 2222!',
+          message: 'Hello555555!',
           message1:'hahahaahhah',
           message2: '我创建的第二个!',
           array: [1, 2, 3, 4, 5],
