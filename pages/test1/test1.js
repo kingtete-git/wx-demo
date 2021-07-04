@@ -6,6 +6,7 @@ Page({
    */
   data: {
           message: 'Hello 2222!',
+          message1:'hahahaahhah',
           message2: '我创建的第二个!',
           array: [1, 2, 3, 4, 5],
 

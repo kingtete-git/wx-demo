@@ -25,3 +25,4 @@
 跳转test页面</navigator>  
 </view>  
 <view> {{ message }} </view>
+

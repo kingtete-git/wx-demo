@@ -16,3 +16,4 @@
 <view> {{a + b}} + {{c}} + d </view>
 
 <view>{{object.key}} {{array1[0]}}</view>
+<view> {{ message1 }} </view>
