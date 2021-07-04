@@ -1,0 +1,18 @@
+<view> {{message2}}</view> 
+
+<view> {{message}} </view>
+
+<view wx:for="{{array}}"> {{item}} </view>
+
+
+<template name="staffName">
+  <view>
+    FirstName: {{firstName}}, LastName: {{lastName}}
+  </view>
+</template>
+
+<view id="item-{{id}}"> </view>
+
+<view> {{a + b}} + {{c}} + d </view>
+
+<view>{{object.key}} {{array1[0]}}</view>
